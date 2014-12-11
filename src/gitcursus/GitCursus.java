@@ -14,6 +14,6 @@ public class GitCursus {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
-        System.out.println("hallo iedereen");
+        System.out.println("hallo allemaal");
     }
 }
